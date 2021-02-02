@@ -1,20 +1,20 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Angelo",
+    "occupation": "Founder of The Wool",
+    "description": "I keep on twiddling my thumb",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Salvete, Not so gentle people. This is me Angelo here. I'm a passionate web developer and some people's so called professionally speaking I'm a student. I have a startup which is not founded yet and is called 'The Wool Inc'. Just keep things clear. Hold on and follow along. Adios amigo!",
+    "contactmessage": "Say Salve to one and only(silly)",
+    "email": "madhav1004@icloud.com",
+    "phone": "+1 617-204-2000",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
+      "street": "123 Beast Lane",
+      "city": "Urbs Novum Eboracum(NYC)",
+      "state": "New York",
       "zip": "W3B D3V"
     },
-    "website": "https://www.papareact.com/course",
+    "website": "here",
     "resumedownload": "http://papareact.com",
     "social": [
       {
@@ -45,21 +45,21 @@
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
+    "skillmessage": "Some pros",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "University of meow meow meow meow - LA",
+        "degree": "Masters degree, Meow",
+        "graduated": "August 2026",
+        "description": "Graduated without attending any class"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
+        "company": "The Wool",
         "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "years": "June 2020 - Until kicked",
+        "description": "I know at first it seemed implausible but we accomplished the impossible now there is something that I've got to say out loud. I'm gonna do what you can't think. Yay!Baby!"
       }
     ],
     "skills": [
@@ -68,54 +68,44 @@
         "level": "100%"
       },
       {
-        "name": "Python",
-        "level": "85%"
-      },
-      {
         "name": "Git",
-        "level": "70%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "99%"
+        "level": "57%"
       },
       {
         "name": "Web Development",
         "level": "95%"
+      },
+      {
+        "name": "Latin",
+        "level": "123.6666%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
-        "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "title": "Better than amazon",
+        "category": "Brewing (Server not deployed)",
+        "image": "diana.png",
+        "url": "https://woolin.vision"
       },
       {
-        "title": "Gmail Clone (React JS)",
-        "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
-      },
-      {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "title": "My profile",
+        "category": "Check my stuff",
+        "image": "my prof.png",
+        "url": "https://github.com/angelo1104"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "One thing which I surely can't do is explain him. Shoot him an email and I will get an inbox full of ' thank you's '",
+        "user": "Sabrina Carpenter"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Doing work with him was my best decision. This is my way to say thank you.",
+        "user": "Inga lam"
       }
     ]
   }
