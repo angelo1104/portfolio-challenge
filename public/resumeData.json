@@ -18,28 +18,18 @@
     "resumedownload": "http://papareact.com",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/angeloFerr1004/",
         "className": "fa fa-facebook"
       },
       {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
-        "className": "fa fa-linkedin"
-      },
-      {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/angelo11104/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/angelo1104",
         "className": "fa fa-github"
       }
     ]
