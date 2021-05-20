@@ -18,6 +18,7 @@ const Header = ({ data }) => {
     });
   }
 
+
   return (
     <header id="home">
       <nav id="nav-wrap">
@@ -65,7 +66,7 @@ const Header = ({ data }) => {
       <div className="row banner">
         <div className="banner-text">
           <h1 className="responsive-headline">
-            <TypeWriter typing={0.5}>{name ? `I'm ${name}.` : null}</TypeWriter>
+            <TypeWriter typing={1}>I'm {name || ""}</TypeWriter>
           </h1>
           <h3>
             Based in {city}. <span>{occupation}</span>. {description}.
